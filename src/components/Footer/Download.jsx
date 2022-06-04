@@ -33,10 +33,10 @@ const Download = () => {
         </p>
       </div>
       <div className="flex items-center justify-center gap-4 md:gap-8">
-        <button className="px-7 py-4 font-bold text-white bg-[#FA4A0C] rounded-lg cursor-pointer tracking-wider">
+        <button className="px-3 py-2 font-bold text-white bg-[#FA4A0C] rounded-lg cursor-pointer">
           Buy now
         </button>
-        <button className="px-11 py-4 font-bold bg-white  md:bg-transparent text-[#FA4A0C] border-[1px] border-[#FA4A0C] md:text-white md:border-white rounded-lg cursor-pointer tracking-wider">
+        <button className="px-5 py-2 font-bold bg-white  md:bg-transparent text-[#FA4A0C] border-[1px] border-[#FA4A0C] md:text-white md:border-white rounded-lg cursor-pointer">
           Try for free
         </button>
       </div>
