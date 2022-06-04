@@ -1,7 +1,7 @@
 import React from 'react';
 import Item from './Item';
 
-import phone1 from '../../assets/images/phone1.png';
+import phone1 from '../../assets/images/Phone1.png';
 import phone2 from '../../assets/images/Phone2.png';
 import phone3 from '../../assets/images/Phone3.png';
 
